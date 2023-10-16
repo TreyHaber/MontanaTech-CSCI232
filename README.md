@@ -2,11 +2,11 @@
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
 ## Submission Information
--**Name:** Treyden Haber
--**Class:** CSCI 232, Section 01, Data Structures and Algorithms
--**Due:** 16 October 2023
--**GitHub:** View the rest of my GitHub here [GitHub Home](https://github.com/TreyHaber)
--**Favorites:** I will be ranking my top three golf clubs.
+- **Name:** Treyden Haber
+- **Class:** CSCI 232, Section 01, Data Structures and Algorithms
+- **Due:** 16 October 2023
+- **GitHub:** View the rest of my GitHub here [GitHub Home](https://github.com/TreyHaber)
+- **Favorites:** I will be ranking my top three golf clubs.
 1. 8 Iron
 2. 56° Wedge
 3. Driver
